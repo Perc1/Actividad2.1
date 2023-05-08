@@ -6,6 +6,21 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
-    guid: 2cda990e2423bbf4892e6590ba056729
+    path: Assets/Scenes/Eleccion.unity
+    guid: 11a657f0ce022b9439e9544fe4a411e7
+  - enabled: 1
+    path: Assets/Scenes/Figuras.unity
+    guid: 27193ca0ac065614ca8061066de4ce2f
+  - enabled: 1
+    path: Assets/Scenes/Circulo.unity
+    guid: 5dfb8f298b1428f4086b2e06f72dcb20
+  - enabled: 1
+    path: Assets/Scenes/Cuadrado.unity
+    guid: f1f03d74969b2524b99e9c63e763b720
+  - enabled: 1
+    path: Assets/Scenes/Rectangulo.unity
+    guid: e7b1b76f489d4cf43b388cfa1c45cd4f
+  - enabled: 1
+    path: Assets/Scenes/Triangulo.unity
+    guid: 7fa56d3e1c2c39449a3cc32b93744f9b
   m_configObjects: {}
